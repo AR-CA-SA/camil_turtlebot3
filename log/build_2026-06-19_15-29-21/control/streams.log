@@ -1,0 +1,20 @@
+[1.040s] Invoking command in '/home/prg/Desktop/camil_turtlebot3/build/control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/prg/Desktop/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/prg/Desktop/camil_turtlebot3/build/control/build --no-deps symlink_data --force
+[1.449s] running develop
+[1.746s] running egg_info
+[1.775s] writing control.egg-info/PKG-INFO
+[1.776s] writing dependency_links to control.egg-info/dependency_links.txt
+[1.776s] writing entry points to control.egg-info/entry_points.txt
+[1.776s] writing requirements to control.egg-info/requires.txt
+[1.776s] writing top-level names to control.egg-info/top_level.txt
+[1.835s] reading manifest file 'control.egg-info/SOURCES.txt'
+[1.835s] writing manifest file 'control.egg-info/SOURCES.txt'
+[1.866s] running build_ext
+[1.866s] Creating /home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages/control.egg-link (link to .)
+[1.867s] Installing maze script to /home/prg/Desktop/camil_turtlebot3/install/control/lib/control
+[1.867s] Installing test script to /home/prg/Desktop/camil_turtlebot3/install/control/lib/control
+[1.868s] 
+[1.868s] Installed /home/prg/Desktop/camil_turtlebot3/build/control
+[1.868s] running symlink_data
+[1.868s] symbolically linking /home/prg/Desktop/camil_turtlebot3/build/control/resource/control -> /home/prg/Desktop/camil_turtlebot3/install/control/share/ament_index/resource_index/packages
+[1.869s] symbolically linking /home/prg/Desktop/camil_turtlebot3/build/control/package.xml -> /home/prg/Desktop/camil_turtlebot3/install/control/share/control
+[1.903s] Invoked command in '/home/prg/Desktop/camil_turtlebot3/build/control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/prg/Desktop/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/prg/Desktop/camil_turtlebot3/build/control/build --no-deps symlink_data --force

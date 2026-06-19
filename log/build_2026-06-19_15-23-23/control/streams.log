@@ -1,0 +1,23 @@
+[1.098s] Invoking command in '/home/prg/Desktop/camil_turtlebot3/src/control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/prg/Desktop/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /home/prg/Desktop/camil_turtlebot3/build/control/build install --record /home/prg/Desktop/camil_turtlebot3/build/control/install.log --single-version-externally-managed install_data
+[1.439s] running egg_info
+[1.468s] writing ../../build/control/control.egg-info/PKG-INFO
+[1.468s] writing dependency_links to ../../build/control/control.egg-info/dependency_links.txt
+[1.469s] writing entry points to ../../build/control/control.egg-info/entry_points.txt
+[1.469s] writing requirements to ../../build/control/control.egg-info/requires.txt
+[1.469s] writing top-level names to ../../build/control/control.egg-info/top_level.txt
+[1.527s] reading manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[1.528s] adding license file 'LICENSE'
+[1.529s] writing manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[1.529s] running build
+[1.529s] running build_py
+[1.529s] running install
+[1.536s] running install_lib
+[1.565s] running install_data
+[1.565s] running install_egg_info
+[1.592s] removing '/home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info' (and everything under it)
+[1.592s] Copying ../../build/control/control.egg-info to /home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info
+[1.593s] running install_scripts
+[1.776s] Installing maze script to /home/prg/Desktop/camil_turtlebot3/install/control/lib/control
+[1.776s] Installing test script to /home/prg/Desktop/camil_turtlebot3/install/control/lib/control
+[1.777s] writing list of installed files to '/home/prg/Desktop/camil_turtlebot3/build/control/install.log'
+[1.805s] Invoked command in '/home/prg/Desktop/camil_turtlebot3/src/control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/prg/Desktop/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prg/Desktop/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /home/prg/Desktop/camil_turtlebot3/build/control/build install --record /home/prg/Desktop/camil_turtlebot3/build/control/install.log --single-version-externally-managed install_data
