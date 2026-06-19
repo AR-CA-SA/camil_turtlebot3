@@ -24,7 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'test = control.test:main'
+            'test = control.test:main',
+            'maze = control.maze:main'
         ],
     },
 )
