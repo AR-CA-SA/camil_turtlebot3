@@ -1,0 +1,25 @@
+[2.795s] Invoking command in '/mnt/c/Users/camil/camil_turtlebot3/src/control': PYTHONPATH=/mnt/c/Users/camil/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /mnt/c/Users/camil/camil_turtlebot3/build/control/build install --record /mnt/c/Users/camil/camil_turtlebot3/build/control/install.log --single-version-externally-managed install_data
+[3.554s] running egg_info
+[3.588s] writing ../../build/control/control.egg-info/PKG-INFO
+[3.597s] writing dependency_links to ../../build/control/control.egg-info/dependency_links.txt
+[3.601s] writing entry points to ../../build/control/control.egg-info/entry_points.txt
+[3.606s] writing requirements to ../../build/control/control.egg-info/requires.txt
+[3.609s] writing top-level names to ../../build/control/control.egg-info/top_level.txt
+[3.696s] reading manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[3.741s] adding license file 'LICENSE'
+[3.761s] writing manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[3.765s] running build
+[3.771s] running build_py
+[3.787s] copying control/test.py -> /mnt/c/Users/camil/camil_turtlebot3/build/control/build/lib/control
+[3.811s] running install
+[3.820s] running install_lib
+[3.906s] copying /mnt/c/Users/camil/camil_turtlebot3/build/control/build/lib/control/test.py -> /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages/control
+[3.958s] byte-compiling /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages/control/test.py to test.cpython-312.pyc
+[4.005s] running install_data
+[4.028s] running install_egg_info
+[4.069s] removing '/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info' (and everything under it)
+[4.128s] Copying ../../build/control/control.egg-info to /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info
+[4.381s] running install_scripts
+[4.716s] Installing my_node script to /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/control
+[4.730s] writing list of installed files to '/mnt/c/Users/camil/camil_turtlebot3/build/control/install.log'
+[4.790s] Invoked command in '/mnt/c/Users/camil/camil_turtlebot3/src/control' returned '0': PYTHONPATH=/mnt/c/Users/camil/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /mnt/c/Users/camil/camil_turtlebot3/build/control/build install --record /mnt/c/Users/camil/camil_turtlebot3/build/control/install.log --single-version-externally-managed install_data
