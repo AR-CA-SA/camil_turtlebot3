@@ -1,0 +1,18 @@
+[3.706s] Invoking command in '/mnt/c/Users/camil/camil_turtlebot3/build/control': PYTHONPATH=/mnt/c/Users/camil/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /mnt/c/Users/camil/camil_turtlebot3/build/control/build --no-deps symlink_data
+[5.688s] running develop
+[6.591s] running egg_info
+[6.654s] writing control.egg-info/PKG-INFO
+[6.664s] writing dependency_links to control.egg-info/dependency_links.txt
+[6.678s] writing entry points to control.egg-info/entry_points.txt
+[6.683s] writing requirements to control.egg-info/requires.txt
+[6.687s] writing top-level names to control.egg-info/top_level.txt
+[6.889s] reading manifest file 'control.egg-info/SOURCES.txt'
+[7.049s] writing manifest file 'control.egg-info/SOURCES.txt'
+[7.126s] running build_ext
+[7.129s] Creating /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages/control.egg-link (link to .)
+[7.168s] Installing maze script to /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/control
+[7.215s] Installing test script to /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/control
+[7.253s] 
+[7.256s] Installed /mnt/c/Users/camil/camil_turtlebot3/build/control
+[7.260s] running symlink_data
+[7.425s] Invoked command in '/mnt/c/Users/camil/camil_turtlebot3/build/control' returned '0': PYTHONPATH=/mnt/c/Users/camil/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /mnt/c/Users/camil/camil_turtlebot3/build/control/build --no-deps symlink_data

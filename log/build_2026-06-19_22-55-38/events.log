@@ -1,0 +1,128 @@
+[0.000000] (-) TimerEvent: {}
+[0.001191] (control) JobQueued: {'identifier': 'control', 'dependencies': OrderedDict()}
+[0.002187] (control) JobStarted: {'identifier': 'control'}
+[0.096244] (-) TimerEvent: {}
+[0.197493] (-) TimerEvent: {}
+[0.299140] (-) TimerEvent: {}
+[0.400444] (-) TimerEvent: {}
+[0.501801] (-) TimerEvent: {}
+[0.603230] (-) TimerEvent: {}
+[0.705016] (-) TimerEvent: {}
+[0.806256] (-) TimerEvent: {}
+[0.907576] (-) TimerEvent: {}
+[1.008743] (-) TimerEvent: {}
+[1.110259] (-) TimerEvent: {}
+[1.216487] (-) TimerEvent: {}
+[1.317653] (-) TimerEvent: {}
+[1.418998] (-) TimerEvent: {}
+[1.520165] (-) TimerEvent: {}
+[1.621565] (-) TimerEvent: {}
+[1.723345] (-) TimerEvent: {}
+[1.824774] (-) TimerEvent: {}
+[1.927596] (-) TimerEvent: {}
+[2.029518] (-) TimerEvent: {}
+[2.131326] (-) TimerEvent: {}
+[2.232856] (-) TimerEvent: {}
+[2.336597] (-) TimerEvent: {}
+[2.438828] (-) TimerEvent: {}
+[2.545862] (-) TimerEvent: {}
+[2.647238] (-) TimerEvent: {}
+[2.749705] (-) TimerEvent: {}
+[2.851442] (-) TimerEvent: {}
+[2.953583] (-) TimerEvent: {}
+[3.054844] (-) TimerEvent: {}
+[3.156349] (-) TimerEvent: {}
+[3.257555] (-) TimerEvent: {}
+[3.358869] (-) TimerEvent: {}
+[3.461418] (-) TimerEvent: {}
+[3.564118] (-) TimerEvent: {}
+[3.665419] (-) TimerEvent: {}
+[3.766954] (-) TimerEvent: {}
+[3.868295] (-) TimerEvent: {}
+[3.971306] (-) TimerEvent: {}
+[4.077517] (-) TimerEvent: {}
+[4.180852] (-) TimerEvent: {}
+[4.282144] (-) TimerEvent: {}
+[4.384310] (-) TimerEvent: {}
+[4.486362] (-) TimerEvent: {}
+[4.588298] (-) TimerEvent: {}
+[4.690430] (-) TimerEvent: {}
+[4.792567] (-) TimerEvent: {}
+[4.894450] (-) TimerEvent: {}
+[4.995819] (-) TimerEvent: {}
+[5.097270] (-) TimerEvent: {}
+[5.198970] (-) TimerEvent: {}
+[5.300376] (-) TimerEvent: {}
+[5.405516] (-) TimerEvent: {}
+[5.507122] (-) TimerEvent: {}
+[5.610968] (-) TimerEvent: {}
+[5.712261] (-) TimerEvent: {}
+[5.813617] (-) TimerEvent: {}
+[5.856603] (control) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/mnt/c/Users/camil/camil_turtlebot3/build/control/build', '--no-deps', 'symlink_data'], 'cwd': '/mnt/c/Users/camil/camil_turtlebot3/build/control', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'camil', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'GIT_ASKPASS': '/home/camil/.vscode-server/bin/fcf604774b9f2674b473065736ee75077e256353/extensions/git/dist/askpass.sh', '__EGL_VENDOR_LIBRARY_FILENAMES': '/usr/share/glvnd/egl_vendor.d/10_nvidia.json', 'SHLVL': '3', 'LD_LIBRARY_PATH': '/home/camil/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/camil/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/camil/turtlebot3_ws/install/dynamixel_sdk/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'HOME': '/home/camil', 'TERM_PROGRAM_VERSION': '1.125.1', 'LIBGL_DRI3_DISABLE': '1', 'VSCODE_IPC_HOOK_CLI': '/run/user/1000/vscode-ipc-54b5e31e-228a-4d99-a4b8-a95641f63909.sock', 'ROS_PYTHON_VERSION': '3', 'VSCODE_GIT_ASKPASS_MAIN': '/home/camil/.vscode-server/bin/fcf604774b9f2674b473065736ee75077e256353/extensions/git/dist/askpass-main.js', 'VSCODE_GIT_ASKPASS_NODE': '/home/camil/.vscode-server/bin/fcf604774b9f2674b473065736ee75077e256353/node', 'VSCODE_PYTHON_AUTOACTIVATE_GUARD': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'WSL_DISTRO_NAME': 'Ubuntu-24.04', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/c/Users/camil/camil_turtlebot3/install:/home/camil/turtlebot3_ws/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'camil', 'NAME': 'Code', '_': '/usr/bin/colcon', 'WSL_INTEROP': '/run/WSL/4518_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/home/camil/.vscode-server/bin/fcf604774b9f2674b473065736ee75077e256353/bin/remote-cli:/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Wolfram Research/WolframScript/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Users/camil/AppData/Local/Programs/Eclipse Adoptium/jdk-17.0.9.9-hotspot/bin:/mnt/c/Users/camil/AppData/Local/Programs/Python/Python311/Scripts/:/mnt/c/Users/camil/AppData/Local/Programs/Python/Python311/:/mnt/c/Users/camil/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/camil/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/MinGW/bin:/mnt/c/Program Files/CMake/bin:/mnt/c/Users/camil/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/camil/AppData/Roaming/npm:/mnt/c/Users/camil/AppData/Local/Microsoft/WinGet/Packages/Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe:/mnt/c/Users/camil/.dotnet/tools:/mnt/c/Users/camil/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/mnt/c/Users/camil/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-863ba41237.sock', 'TERM_PROGRAM': 'vscode', 'ROS_DOMAIN_ID': '30', 'AMENT_PREFIX_PATH': '/mnt/c/Users/camil/camil_turtlebot3/install/control:/home/camil/turtlebot3_ws/install/turtlebot3:/home/camil/turtlebot3_ws/install/turtlebot3_teleop:/home/camil/turtlebot3_ws/install/turtlebot3_simulations:/home/camil/turtlebot3_ws/install/turtlebot3_bringup:/home/camil/turtlebot3_ws/install/turtlebot3_node:/home/camil/turtlebot3_ws/install/turtlebot3_navigation2:/home/camil/turtlebot3_ws/install/turtlebot3_fake_node:/home/camil/turtlebot3_ws/install/turtlebot3_example:/home/camil/turtlebot3_ws/install/turtlebot3_msgs:/home/camil/turtlebot3_ws/install/turtlebot3_gazebo:/home/camil/turtlebot3_ws/install/turtlebot3_description:/home/camil/turtlebot3_ws/install/turtlebot3_cartographer:/home/camil/turtlebot3_ws/install/dynamixel_sdk_examples:/home/camil/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/camil/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'PWD': '/mnt/c/Users/camil/camil_turtlebot3/build/control', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/c/Users/camil/camil_turtlebot3/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages:/mnt/c/Users/camil/camil_turtlebot3/build/control:/mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages:/home/camil/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages:/home/camil/turtlebot3_ws/install/turtlebot3_example/lib/python3.12/site-packages:/home/camil/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.12/site-packages:/home/camil/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.12/site-packages:/home/camil/turtlebot3_ws/install/dynamixel_sdk/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'OGRE_RTT_MODE': 'PBUFFER', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/home/camil/turtlebot3_ws/install/turtlebot3:/home/camil/turtlebot3_ws/install/turtlebot3_simulations:/home/camil/turtlebot3_ws/install/turtlebot3_bringup:/home/camil/turtlebot3_ws/install/turtlebot3_node:/home/camil/turtlebot3_ws/install/turtlebot3_navigation2:/home/camil/turtlebot3_ws/install/turtlebot3_fake_node:/home/camil/turtlebot3_ws/install/turtlebot3_msgs:/home/camil/turtlebot3_ws/install/turtlebot3_gazebo:/home/camil/turtlebot3_ws/install/turtlebot3_description:/home/camil/turtlebot3_ws/install/turtlebot3_cartographer:/home/camil/turtlebot3_ws/install/dynamixel_sdk_examples:/home/camil/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/camil/turtlebot3_ws/install/dynamixel_sdk:/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor', 'WSLENV': 'ELECTRON_RUN_AS_NODE/w:'}, 'shell': False}
+[5.913709] (-) TimerEvent: {}
+[6.014754] (-) TimerEvent: {}
+[6.116012] (-) TimerEvent: {}
+[6.217285] (-) TimerEvent: {}
+[6.318484] (-) TimerEvent: {}
+[6.420091] (-) TimerEvent: {}
+[6.526541] (-) TimerEvent: {}
+[6.627705] (-) TimerEvent: {}
+[6.729870] (-) TimerEvent: {}
+[6.830881] (-) TimerEvent: {}
+[6.932106] (-) TimerEvent: {}
+[7.033486] (-) TimerEvent: {}
+[7.134746] (-) TimerEvent: {}
+[7.236306] (-) TimerEvent: {}
+[7.337418] (-) TimerEvent: {}
+[7.441853] (-) TimerEvent: {}
+[7.543053] (-) TimerEvent: {}
+[7.646090] (-) TimerEvent: {}
+[7.748100] (-) TimerEvent: {}
+[7.849728] (-) TimerEvent: {}
+[7.951316] (-) TimerEvent: {}
+[7.960513] (control) StdoutLine: {'line': b'running develop\n'}
+[8.051460] (-) TimerEvent: {}
+[8.152831] (-) TimerEvent: {}
+[8.254270] (-) TimerEvent: {}
+[8.355638] (-) TimerEvent: {}
+[8.458219] (-) TimerEvent: {}
+[8.562341] (-) TimerEvent: {}
+[8.663889] (-) TimerEvent: {}
+[8.765083] (-) TimerEvent: {}
+[8.868715] (-) TimerEvent: {}
+[8.969978] (-) TimerEvent: {}
+[9.039819] (control) StdoutLine: {'line': b'running egg_info\n'}
+[9.070109] (-) TimerEvent: {}
+[9.112135] (control) StdoutLine: {'line': b'writing control.egg-info/PKG-INFO\n'}
+[9.125946] (control) StdoutLine: {'line': b'writing dependency_links to control.egg-info/dependency_links.txt\n'}
+[9.136170] (control) StdoutLine: {'line': b'writing entry points to control.egg-info/entry_points.txt\n'}
+[9.141830] (control) StdoutLine: {'line': b'writing requirements to control.egg-info/requires.txt\n'}
+[9.148113] (control) StdoutLine: {'line': b'writing top-level names to control.egg-info/top_level.txt\n'}
+[9.170405] (-) TimerEvent: {}
+[9.271787] (-) TimerEvent: {}
+[9.373143] (-) TimerEvent: {}
+[9.445224] (control) StdoutLine: {'line': b"reading manifest file 'control.egg-info/SOURCES.txt'\n"}
+[9.473297] (-) TimerEvent: {}
+[9.574424] (-) TimerEvent: {}
+[9.624062] (control) StdoutLine: {'line': b"writing manifest file 'control.egg-info/SOURCES.txt'\n"}
+[9.677564] (-) TimerEvent: {}
+[9.718151] (control) StdoutLine: {'line': b'running build_ext\n'}
+[9.721891] (control) StdoutLine: {'line': b'Creating /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/python3.12/site-packages/control.egg-link (link to .)\n'}
+[9.767732] (control) StdoutLine: {'line': b'Installing maze script to /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/control\n'}
+[9.777733] (-) TimerEvent: {}
+[9.817611] (control) StdoutLine: {'line': b'Installing test script to /mnt/c/Users/camil/camil_turtlebot3/install/control/lib/control\n'}
+[9.857868] (control) StdoutLine: {'line': b'\n'}
+[9.861809] (control) StdoutLine: {'line': b'Installed /mnt/c/Users/camil/camil_turtlebot3/build/control\n'}
+[9.865315] (control) StdoutLine: {'line': b'running symlink_data\n'}
+[9.877903] (-) TimerEvent: {}
+[9.979582] (-) TimerEvent: {}
+[10.073635] (control) CommandEnded: {'returncode': 0}
+[10.079656] (-) TimerEvent: {}
+[10.180919] (-) TimerEvent: {}
+[10.282062] (-) TimerEvent: {}
+[10.383507] (-) TimerEvent: {}
+[10.485351] (-) TimerEvent: {}
+[10.586714] (-) TimerEvent: {}
+[10.689811] (-) TimerEvent: {}
+[10.736410] (control) JobEnded: {'identifier': 'control', 'rc': 0}
+[10.753452] (-) EventReactorShutdown: {}
