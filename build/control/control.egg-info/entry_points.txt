@@ -1,3 +1,0 @@
-[console_scripts]
-maze = control.maze:main
-test = control.test:main

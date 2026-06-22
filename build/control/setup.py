@@ -1,1 +1,0 @@
-/mnt/c/Users/camil/camil_turtlebot3/src/control/setup.py
